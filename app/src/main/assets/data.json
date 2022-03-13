@@ -1,0 +1,52 @@
+[
+  {
+    "acronym": "USD",
+    "currencyName": "Dólar",
+    "flag": 2131165301,
+    "id": 0,
+    "isBase": true,
+    "name": "Estados Unidos",
+    "purchase": 1.0,
+    "sale": 1.0
+  },
+  {
+    "acronym": "MXN",
+    "currencyName": "Peso",
+    "flag": 2131165296,
+    "id": 1,
+    "isBase": false,
+    "name": "México",
+    "purchase": 20.95,
+    "sale": 20.55
+  },
+  {
+    "acronym": "EUR",
+    "currencyName": "Euro",
+    "flag": 2131165288,
+    "id": 2,
+    "isBase": false,
+    "name": "Unión europea",
+    "purchase": 0.91,
+    "sale": 0.8
+  },
+  {
+    "acronym": "CAD",
+    "currencyName": "Dolar canadiense",
+    "flag": 2131165285,
+    "id": 3,
+    "isBase": false,
+    "name": "Canadá",
+    "purchase": 1.28,
+    "sale": 1.12
+  },
+  {
+    "acronym": "JPY",
+    "currencyName": "Yen",
+    "flag": 2131165289,
+    "id": 4,
+    "isBase": false,
+    "name": "Japón",
+    "purchase": 116.62,
+    "sale": 110.0
+  }
+]

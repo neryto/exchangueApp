@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExchangueApp</string>
+    <string name="send">"Tú envías "</string>
+    <string name="dollars">Dólar</string>
+    <string name="reciver">Tú recibes</string>
+    <string name="soles">Soles</string>
+    <string name="start">Empieza tu operación</string>
+</resources>
